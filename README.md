@@ -32,6 +32,5 @@ Name: Ahmed Hassan | CPR: 123456789 | Books issued: 0
 ```
 
 ## Authors
-- **Rayan Ali Mohammed**
-- **Rayan Alharthy**
-- **(Third teammate name not specified)**
+- **Rayan**
+- **Mohammed**
